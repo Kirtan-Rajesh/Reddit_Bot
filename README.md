@@ -1,6 +1,4 @@
-Certainly! Below is the complete content for your `README.md` file, formatted as a single cohesive document. You can copy and paste this into a file named `README.md` in your project directory.
 
-```markdown
 # Reddit Automation Bot
 
 This project is a Reddit automation bot designed to perform tasks such as logging into Reddit, posting images with titles, and commenting on specific posts. The bot leverages Selenium with Undetected ChromeDriver for browser automation.
