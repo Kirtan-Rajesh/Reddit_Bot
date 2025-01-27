@@ -1,0 +1,2 @@
+reddit_bot_spam,Message content
+username2,Another message
